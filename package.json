@@ -1,6 +1,9 @@
 {
   "name": "bugtracker",
   "version": "1.0.0",
+  "engines": {
+    "node": "12.x"
+  },
   "description": "Aplicação para reportar bugs no sistema",
   "main": "index.js",
   "scripts": {
