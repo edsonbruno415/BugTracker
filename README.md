@@ -1,4 +1,4 @@
-#BugTracker
+# BugTracker
 
 Sistema para relatar falhas de um certo sistema. Os dados dessa aplicação são
 armazenados na nuvem em uma planilha, com o intuito que eles possam ser utilizados para o
